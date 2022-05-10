@@ -1,0 +1,10 @@
+[
+    {"name":"xyz","category":"abc","price":1,"createdDate":"04-04-2022"},
+    {"name":"abc","category":"abc","price":3,"createdDate":"04-04-2022"},
+    {"name":"def","category":"abc","price":4,"createdDate":"04-04-2022"},
+    {"name":"ghi","category":"abc","price":5,"createdDate":"04-04-2022"},
+    {"name":"jkl","category":"abc","price":6,"createdDate":"04-04-2022"},
+    {"name":"mno","category":"abc","price":7,"createdDate":"04-04-2022"},
+    {"name":"pqr","category":"abc","price":8,"createdDate":"04-04-2022"}
+
+]
