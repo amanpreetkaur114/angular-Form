@@ -1,0 +1,4 @@
+::ng-deep .dropdown-toggle .btn .btn-primary,.dropdown-toggle .btn .btn-primary:hover{
+    background-color: white;
+    color: black;
+}
